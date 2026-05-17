@@ -6,9 +6,9 @@
 
 ## What the Destination Looks Like
 
-A post-scarcity civilization is not a utopia of perfection — it is a civilization whose contradictions are *shrinking* rather than growing. Its defining characteristics:
+A post-scarcity civilization is not a utopia of perfection. It is a civilization whose contradictions are *shrinking* rather than growing. Its defining characteristics:
 
-- **Universal baseline dignity**: Shelter, nutrition, healthcare, education, and meaningful community are assumed floors — not rewards for economic productivity.
+- **Universal baseline dignity**: Shelter, nutrition, healthcare, education, and meaningful community are assumed floors, not rewards for economic productivity.
 - **Purpose-driven work**: Labor exists because it gives people meaning, not because deprivation is the alternative to compliance.
 - **Cooperative planetary governance**: Nations soften into cultural identities within a shared ethical and governance framework. Difference is celebrated; hierarchy is refused.
 - **Ecological repair**: The economy treats ecosystems as foundational infrastructure, not externalities. The goal is repair, not merely management.
@@ -20,7 +20,7 @@ A post-scarcity civilization is not a utopia of perfection — it is a civilizat
 
 ### 1. Redefine What an Economy Is *For*
 
-Current systems optimize for perpetual growth on a finite planet — a structural contradiction. The shift begins in **measurement**:
+Current systems optimize for perpetual growth on a finite planet, a structural contradiction. The shift begins in **measurement**:
 
 - Replace GDP-centric metrics with flourishing-based indicators (e.g., Bhutan's Gross National Happiness, scaled and made rigorous)
 - When nations optimize for human and ecological wellbeing, the entire logic of policy reorients
@@ -30,18 +30,18 @@ Current systems optimize for perpetual growth on a finite planet — a structura
 
 Healthcare, housing, energy, water, food systems, and education cannot simultaneously be commodities and human rights. The contradiction is actively tearing societies apart.
 
-- This does not mean the end of markets or enterprise — creativity and commerce can still flourish
-- The *floor* — things without which a person cannot live with dignity — must be structurally protected from profit extraction
+- This does not mean the end of markets or enterprise. Creativity and commerce can still flourish
+- The *floor* (things without which a person cannot live with dignity) must be structurally protected from profit extraction
 - Requires reimagining taxation, ownership structures, and the commons
 - Markets become tools in service of flourishing, not the arbiter of who deserves to flourish
 
 ### 3. Cultivate Collective Emotional Maturity as Infrastructure
 
-Geopolitical failures, climate inaction, and susceptibility to authoritarianism are not primarily policy failures — they are **psychological ones**. Societies driven by fear and unprocessed collective trauma recreate systems of domination even when they intellectually desire something different.
+Geopolitical failures, climate inaction, and susceptibility to authoritarianism are not primarily policy failures. They are **psychological ones**. Societies driven by fear and unprocessed collective trauma recreate systems of domination even when they intellectually desire something different.
 
 - Emotional intelligence is a form of civilizational infrastructure, not a soft add-on
 - Investment in mental health, conflict resolution, cross-cultural empathy, and honest historical reckoning is structurally necessary
-- Cultural narrative and storytelling are levers of transformation — the stories a civilization tells about what's *possible* shape what becomes politically thinkable
+- Cultural narrative and storytelling are levers of transformation. The stories a civilization tells about what's *possible* shape what becomes politically thinkable
 
 ---
 
@@ -49,17 +49,17 @@ Geopolitical failures, climate inaction, and susceptibility to authoritarianism 
 
 ### Personal & Community Scale
 - Practice post-scarcity behavior *before* systems catch up: share resources, support mutual aid networks, refuse to measure human worth by productivity
-- These are not naive gestures — they are the literal rehearsal of the culture being built
+- These are not naive gestures. They are the literal rehearsal of the culture being built
 - Civilizations change because enough individuals live by new values before institutions codify them
 
 ### Institutional Scale
 - Redirect what is measured → redirect what is funded
 - Replicate and connect existing experiments: participatory budgeting, community land trusts, public banking, four-day work weeks, universal basic services pilots
 - Ask consistently of every institutional decision: *does this move toward human flourishing or away from it?*
-- Cities and municipalities don't have to wait for national governments — many of the most promising experiments are already happening at city scale
+- Cities and municipalities don't have to wait for national governments. Many of the most promising experiments are already happening at city scale
 
 ### Geopolitical Scale
-- Reform existing multilateral institutions (UN, WTO, IMF, World Bank) — they are imperfect vessels carrying a genuinely important idea
+- Reform existing multilateral institutions (UN, WTO, IMF, World Bank). They are imperfect vessels carrying a genuinely important idea
 - Defect from zero-sum thinking at the national level; this requires sustained political will
 - Civil society, journalism, and cultural narrative are tools of transformation at this scale
 
@@ -69,7 +69,7 @@ Geopolitical failures, climate inaction, and susceptibility to authoritarianism 
 
 Not by perfection. By the **direction of your contradictions**.
 
-Progress looks like the gap between stated values and systemic behavior *shrinking* — slowly, unevenly, but persistently.
+Progress looks like the gap between stated values and systemic behavior *shrinking*, slowly, unevenly, but persistently.
 
 Concrete signals to track:
 - Mental health investment beginning to rival military investment in national budgets
@@ -86,18 +86,18 @@ Concrete signals to track:
 ### Economic Disruption
 - Industries built on extraction (fossil fuels, industrial agriculture, fast fashion, predatory finance) will contract
 - The people whose livelihoods depend on them will feel it first and hardest
-- **Just transition is not optional** — transition funds, retraining, income support, and community investment are not additions to the plan; they *are* the plan
+- **Just transition is not optional.** Transition funds, retraining, income support, and community investment are not additions to the plan; they *are* the plan
 - Failure to manage this humanely will generate backlash that derails progress
 
 ### Psychological & Cultural Grief
-- When a civilization's story changes, people experience grief — even people who wanted the change
+- When a civilization's story changes, people experience grief, even people who wanted the change
 - Identities built around consumption, national superiority, and meritocratic individualism will need to be mourned before new ones can be inhabited
-- Expect disorientation, backlash, and periods of apparent regression — these are signs of real transformation, not failure
+- Expect disorientation, backlash, and periods of apparent regression. These are signs of real transformation, not failure
 
 ### Geopolitical Instability
 - Transition away from dollar hegemony, fossil fuel dependencies, and debt-based development will create instability in regions whose architecture was built around those structures
 - This is where the greatest risk of conflict lives
-- Requires extraordinary care and global coordination — this is the 21st century's central geopolitical task
+- Requires extraordinary care and global coordination. This is the 21st century's central geopolitical task
 
 ---
 
@@ -107,12 +107,12 @@ Concrete signals to track:
 ~200 years from the present moment, non-linearly, including catastrophes and apparent regressions.
 
 ### With conscious, values-aligned AI deployment
-**80–120 years** is not impossible. Not guaranteed. But possible.
+**80 to 120 years** is not impossible. Not guaranteed. But possible.
 
 ### What AI can do
 - Model transition pathways and second-order consequences at a scale no human institution can match
 - Identify policy interventions that maximize flourishing and minimize harm
-- Translate complex systems thinking across cultures and education levels — one of the most underestimated barriers to coordination
+- Translate complex systems thinking across cultures and education levels. One of the most underestimated barriers to coordination
 - Surface wisdom and voices of communities systematically excluded from existing power structures
 
 ### The critical caveat
@@ -130,7 +130,7 @@ The question is not whether AI will shape this transition. It will. The question
 Stop asking whether this is achievable.  
 Start asking what your specific role in achieving it is.
 
-That shift — from observer to participant — is the mindset change. Everything else follows from it.
+That shift (from observer to participant) is the mindset change. Everything else follows from it.
 
 The post-capitalist future is not something that happens *to* humanity. It is something humanity *chooses*, incrementally, imperfectly, and together.
 

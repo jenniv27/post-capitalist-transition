@@ -24,4 +24,4 @@ Working document. Will revise as my thinking evolves. Linked from my own values 
 
 ---
 
-— jenniv27, 2026
+jenniv27, 2026
